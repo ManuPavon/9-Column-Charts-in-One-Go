@@ -43,6 +43,9 @@ This dashboard showcases **9 different design styles** for comparing *Last Year 
 ### **Example 9 – Dashed Benchmark Lines in Column Chart**
 ![imagen](https://github.com/user-attachments/assets/72f0d3ee-9632-4352-a751-52e902b13f43)
 
+## **Extra Dax - Welcome feature**
+Just check the **Userprincipalname function** one tweak here and there and you are done.
+
 ## 
 
 ### **Final Results**
